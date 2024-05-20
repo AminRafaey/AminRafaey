@@ -20,7 +20,7 @@ In the ever-evolving tech landscape, I’m always exploring new frameworks, tool
 
 ## 📬 Let's Connect
 - **Email**: [aminrafaey543@gmail.com](mailto:aminrafaey543@gmail.com)
-- **LinkedIn**: [linkedin.com/in/amin](https://www.linkedin.com/in/muhammad-amin-6b022315a/)
+- **LinkedIn**: [linkedin.com/in/muhammad-amin-6b022315a/](https://www.linkedin.com/in/muhammad-amin-6b022315a/)
 
 ## 🌟 Fun Fact
 When I'm not coding, you can find me exploring nature trails, experimenting with new coffee brewing techniques, or tinkering with the latest tech gadgets. Let's connect and create something extraordinary together!
