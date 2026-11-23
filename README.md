@@ -1,26 +1,26 @@
-# 🌟 Welcome to My GitHub Universe!
+# Hi, I'm Amin Rafaey
 
-Hey there! I'm Amin, a passionate developer transforming ideas into reality with code. With a strong foundation in modern web technologies, I’m here to push the boundaries of what's possible in the digital world.
+Backend engineer with 7+ years of building and running TypeScript and Node.js services on PostgreSQL. I'm co-founder and CTO at [TKTURNERS](https://github.com/tkturners), where I lead a small team and run production for our own products and for client systems in the US, Europe and the Middle East.
 
-## 🚀 About Me
-I'm a versatile developer experienced with:
-- **Frontend Magic**: React.js, Next.js
-- **Backend Wizardry**: Node.js, Nest.js
-- **Database Mastery**: Firebase, Airtable, SQL, NoSQL
-- **API Alchemy**: GraphQL, REST
-- **Cloud Sorcery**: AWS, GCP
-- **E-commerce Excellence**: Shopify
-- **Containerization & Microservices**: Docker, Microservices Architecture
+## What I work with
 
-## 💡 My Philosophy
-I believe in creating elegant and efficient solutions that not only meet but exceed user expectations. Every line of code is crafted with care to ensure scalability, maintainability, and performance.
+- **Backend:** TypeScript, Node.js, NestJS, GraphQL and REST APIs, microservices, Redis and Bull queues
+- **PostgreSQL:** schema design, transactions, connection pooling, statement timeouts, large result sets, Prisma, Supabase
+- **Production:** Kubernetes (GKE and EKS), Docker, CI/CD, Sentry, Grafana and Prometheus, on-call and incident response
+- **AI:** LLM integrations, AI agents, MCP tool calling, real-time voice AI
 
-## 🌱 Continuous Learning
-In the ever-evolving tech landscape, I’m always exploring new frameworks, tools, and best practices.
+## Now
 
-## 📬 Let's Connect
-- **Email**: [aminrafaey543@gmail.com](mailto:aminrafaey543@gmail.com)
-- **LinkedIn**: [linkedin.com/in/muhammad-amin-6b022315a/](https://www.linkedin.com/in/muhammad-amin-6b022315a/)
+- **[Voxento](https://linkly.link/2m6N5):** Head of Product & Engineering for an observation and coaching platform for US schools and districts, with a real-time voice AI guide
+- **[Subora](https://subora.eu):** Solutions Architect for native Shopify subscriptions in Europe, built on Mollie payments
+- **TKTURNERS:** operations platforms for clients, from inventory and real-time Shopify sync to service management with ERP integration
 
-## 🌟 Fun Fact
-When I'm not coding, you can find me exploring nature trails, experimenting with new coffee brewing techniques, or tinkering with the latest tech gadgets. Let's connect and create something extraordinary together!
+## Before
+
+Senior Software Engineer at [Meetovo](https://linkly.link/2m6MR), a recruitment platform used by 5,000+ companies. I joined early, built NestJS microservices on AWS EKS and was on call for the platform.
+
+Most of my work lives in private repos for our products and clients. I'm happy to walk through any of it.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/amin-rafaey-6b022315a/) · [aminrafaey543@gmail.com](mailto:aminrafaey543@gmail.com)
