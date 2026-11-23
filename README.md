@@ -1,13 +1,15 @@
 # Hi, I'm Amin Rafaey
 
-Backend engineer with 7+ years of building and running TypeScript and Node.js services on PostgreSQL. I'm co-founder and CTO at [TKTURNERS](https://github.com/tkturners), where I lead a small team and run production for our own products and for client systems in the US, Europe and the Middle East.
+Software engineer and technical co-founder with 7+ years of building products end to end for businesses in the US, Europe and the Middle East. I'm co-founder and CTO at [TKTURNERS](https://github.com/tkturners), where I lead a small team and own the work from the first customer call to architecture, launch and running it in production.
 
 ## What I work with
 
-- **Backend:** TypeScript, Node.js, NestJS, GraphQL and REST APIs, microservices, Redis and Bull queues
-- **PostgreSQL:** schema design, transactions, connection pooling, statement timeouts, large result sets, Prisma, Supabase
-- **Production:** Kubernetes (GKE and EKS), Docker, CI/CD, Sentry, Grafana and Prometheus, on-call and incident response
-- **AI:** LLM integrations, AI agents, MCP tool calling, real-time voice AI
+- **Frontend:** React, Next.js, TypeScript
+- **Backend:** Node.js, NestJS, GraphQL and REST APIs, microservices, Redis and Bull queues, Python
+- **Data:** PostgreSQL, Supabase, Prisma, MongoDB, Firebase
+- **Cloud and DevOps:** Docker, Kubernetes (GKE and EKS), CI/CD, AWS, Google Cloud, Sentry, Grafana and Prometheus
+- **AI:** LLM integrations, AI agents, MCP tool calling, RAG, real-time voice AI
+- **Integrations:** Shopify apps, Stripe Connect, Mollie, carrier APIs, ERP and CRM systems
 
 ## Now
 
@@ -17,7 +19,7 @@ Backend engineer with 7+ years of building and running TypeScript and Node.js se
 
 ## Before
 
-Senior Software Engineer at [Meetovo](https://linkly.link/2m6MR), a recruitment platform used by 5,000+ companies. I joined early, built NestJS microservices on AWS EKS and was on call for the platform.
+Senior Software Engineer at [Meetovo](https://linkly.link/2m6MR), a recruitment platform used by 5,000+ companies. I joined early and built across frontend and backend, from NestJS microservices to the features that publish vacancies to job boards.
 
 Most of my work lives in private repos for our products and clients. I'm happy to walk through any of it.
 
